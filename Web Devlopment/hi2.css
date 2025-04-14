@@ -1,0 +1,29 @@
+.hii:hover{
+color: blue;
+border: 2px;
+border-style: solid;
+border-color: #000000;
+border-radius:5px ;
+}
+body{
+background-color: #00f4fc;
+}
+header 
+{
+    background-color:rgb(78, 211, 248);
+    text-align: center ;
+     
+    padding:10px;
+    border-style : solid;
+    border-color :#e99235 ;
+    border-radius:8px ;
+}
+.hi3{
+    background-color: aquamarine;
+}
+.hi3 {
+    background-color: #fefdfd;
+    
+
+    
+}

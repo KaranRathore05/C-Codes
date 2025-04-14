@@ -1,0 +1,16 @@
+*{
+    background-color: aquamarine;
+}
+
+navbar{
+    display: flex;
+    background-color: gray;
+    
+}
+
+li {
+    list-style-type: none;
+    background-color: gray;
+    color: aliceblue;
+    margin: 0 10px;
+}
